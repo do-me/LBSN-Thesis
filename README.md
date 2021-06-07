@@ -15,5 +15,5 @@ Supplementary repository for my Master's thesis.
 5. Python code snippets
 
 ## Impressions
-![Data flow](https://raw.githubusercontent.com/do-me/LBSN-Thesis/main/figures/dataflow.svv)
+![Data flow](https://raw.githubusercontent.com/do-me/LBSN-Thesis/main/figures/dataflow.svg)
 
