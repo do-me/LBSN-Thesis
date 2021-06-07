@@ -1,5 +1,5 @@
 # LBSN-Thesis
-Supplementary repository for my Master's thesis.
+Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://github.com/do-me/LBSN-Dashboard).
 
 **Good Governance Goes Smart – Social Media Data Supporting Evidence-Based Municipal Policies**
 
