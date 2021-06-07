@@ -17,3 +17,6 @@ Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://git
 ## Impressions
 ![Data flow](https://raw.githubusercontent.com/do-me/LBSN-Thesis/main/figures/dataflow.svg)
 
+![pgadmin1](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/pgadmin1.png)
+
+![pgadmin2](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/pgadmin2.png)
