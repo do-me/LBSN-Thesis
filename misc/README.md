@@ -1,5 +1,11 @@
 # Miscellaneous
 
+## Index
+
+1. Stopwords EN/DE
+2. UTF-8 to binary string converter script 
+3. How to create a Facebook location (as of April 2021)
+
 ## How to create a Facebook location (as of April 2021)
 A Facebook/Instagram location is easily created with a few clicks on the Facebook app (mobile only). When posting something, the “check-in” option offers the functionality of adding new places. Even though certain restrictions apply for the place name, everyone can create a place anywhere. For testing and illustration purposes, an [“Atlantis Ocean Bar”]( https://www.facebook.com/pages/Atlantis-Ocean-Bar/106847628209185) was created in the middle of the Atlantic Ocean.
 
