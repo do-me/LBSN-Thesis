@@ -1,7 +1,7 @@
 # Tutorial Videos
 
 Available in English and German for the area of Bonn.
-All Videos are accessible [here](https://drive.google.com/drive/folders/1zInT40dzDkP_gXdNAmIwtYDtDMcqnagI?usp=sharing).
+All videos are accessible [here](https://drive.google.com/drive/folders/1zInT40dzDkP_gXdNAmIwtYDtDMcqnagI?usp=sharing).
 
 ## Index
 
