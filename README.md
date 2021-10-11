@@ -8,7 +8,7 @@ Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://git
 ![Dashboard](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/LBSN-Dashboard.png)
 
 ## Contents
-1. Thesis PDF (yet to come)
+1. Thesis PDF
 2. Screenshots 
 3. Introductory Videos 
 4. SQL commands 
