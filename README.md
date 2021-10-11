@@ -1,4 +1,6 @@
 # LBSN-Thesis
+[![DOI](https://zenodo.org/badge/374586799.svg)](https://zenodo.org/badge/latestdoi/374586799)
+
 Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://github.com/do-me/LBSN-Dashboard).
 
 **Good Governance Goes Smart – Social Media Data Supporting Evidence-Based Municipal Policies**
