@@ -3,6 +3,8 @@
 
 Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://github.com/do-me/LBSN-Dashboard).
 
+## [WORKING DEMO](https://geo.rocks/lbsndashboard/)
+
 **Good Governance Goes Smart – Social Media Data Supporting Evidence-Based Municipal Policies**
 
 **Development of a Browser-Based Dashboard Prototype for Privacy-Aware Analysis of Location-Based Social Media Data for Application to Urban Planning Illustrated by a Case Study in Bonn**
