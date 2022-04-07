@@ -1,9 +1,12 @@
 # LBSN-Thesis
+
 [![DOI](https://zenodo.org/badge/374586799.svg)](https://zenodo.org/badge/latestdoi/374586799)
 
 Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://github.com/do-me/LBSN-Dashboard).
 
-## [WORKING DEMO](https://geo.rocks/lbsndashboard/)
+## WORKING DEMOS
+- [Bonn, NRW, Germany](https://geo.rocks/dashboards/bonn)
+- [Waynesboro, VA, USA](https://geo.rocks/dashboards/waynesboro)
 
 **Good Governance Goes Smart – Social Media Data Supporting Evidence-Based Municipal Policies**
 
@@ -12,13 +15,15 @@ Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://git
 ![Dashboard](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/LBSN-Dashboard.png)
 
 ## Contents
-1. Thesis PDF
-2. Screenshots 
-3. Introductory Videos 
-4. SQL commands 
-5. Python code snippets
+
+1.  Thesis PDF
+2.  Screenshots
+3.  Introductory Videos
+4.  SQL commands
+5.  Python code snippets
 
 ## Impressions
+
 ![Data flow](https://raw.githubusercontent.com/do-me/LBSN-Thesis/main/figures/dataflow.svg)
 
 ![pgadmin1](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/pgadmin1.png)
