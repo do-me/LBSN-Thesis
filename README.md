@@ -12,7 +12,7 @@ Supplementary repository for my Master's thesis and [LBSN-Dashboard](https://git
 
 **Development of a Browser-Based Dashboard Prototype for Privacy-Aware Analysis of Location-Based Social Media Data for Application to Urban Planning Illustrated by a Case Study in Bonn**
 
-![Dashboard](https://github.com/do-me/LBSN-Thesis/blob/main/screenshots/LBSN-Dashboard.png)
+![LBSN-Dashboard](https://user-images.githubusercontent.com/47481567/170873604-4701951b-f37e-491c-b225-f69cf4717931.png)
 
 ## Contents
 
